@@ -1,7 +1,8 @@
 # PROJECT NAME
 
 ## CHURN MODELING 2.0: Predictive Modeling With Python And Sci-Kit Learn
-![model.png](attachment:images/model.png)
+![alt text](images/model.JPG)
+
 
 # PROJECT STATUS: Active
 
