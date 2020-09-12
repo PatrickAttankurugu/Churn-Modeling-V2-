@@ -59,7 +59,7 @@ The code is supposed to predict the likelihood that a particular customer or gro
 
 1. Clone this repo. Enter the command: '$ git clone https://github.com/PatrickAttankurugu/Churn-Modeling-V2-' . Now enter this command: ' $ cd Churn-Modeling-V2-' . To point your command line to the working directory
 
-![alt text](images/gettingstarted.png)
+![alt text](images/gstarted.jpg)
 
 2. Prepared Data is being kept [here](Prepared_Data) within this repo.
 3. Data processing/transformation scripts are being kept [here](Transformations) 
