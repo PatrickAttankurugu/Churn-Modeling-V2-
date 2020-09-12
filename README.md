@@ -11,22 +11,22 @@ The purpose of this project is to predict the likelihood that a particular custo
 
 
 ## Methods I am using
-Predictive Modeling
-Inferential Statistics
-Machine Learning 
+* Predictive Modeling
+* Inferential Statistics
+* Machine Learning 
 
 
 ## Technologies I am using
-Python
-Pandas
-Matplotlib
-Sci-Kit Learn
-Numpy
-Jupyter
-Flask
-Posgres
-MySQL
-HTML
+* Python
+* Pandas
+* Matplotlib
+* Sci-Kit Learn
+* Numpy
+* Jupyter
+* Flask
+* Posgres
+* MySQL
+* HTML
 
 ## Project Description
 
@@ -59,7 +59,7 @@ The code is supposed to predict the likelihood that a particular customer or gro
 
 1. Clone this repo. Enter the command: '$ git clone https://github.com/PatrickAttankurugu/Churn-Modeling-V2-' . Now enter this command: ' $ cd Churn-Modeling-V2-' . To point your command line to the working directory
 
-![gettingstarted.PNG](attachment:images/gettingstarted.png)
+![getting started](attachment:images/gstarted.jpg)
 
 2. Prepared Data is being kept [here](Prepared_Data) within this repo.
 3. Data processing/transformation scripts are being kept [here](Transformations) 
