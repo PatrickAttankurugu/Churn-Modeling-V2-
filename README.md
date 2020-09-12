@@ -1,7 +1,7 @@
 # PROJECT NAME
 
 ## CHURN MODELING 2.0: Predictive Modeling With Python And Sci-Kit Learn
-![background image](images/churn.png)
+![alt text](images/churn.png)
 
 
 # PROJECT STATUS: Active
@@ -59,7 +59,7 @@ The code is supposed to predict the likelihood that a particular customer or gro
 
 1. Clone this repo. Enter the command: '$ git clone https://github.com/PatrickAttankurugu/Churn-Modeling-V2-' . Now enter this command: ' $ cd Churn-Modeling-V2-' . To point your command line to the working directory
 
-![getting started](gettingstarted.png)
+![alt text](images/gettingstarted.png)
 
 2. Prepared Data is being kept [here](Prepared_Data) within this repo.
 3. Data processing/transformation scripts are being kept [here](Transformations) 
@@ -96,7 +96,7 @@ Thanks to [Yvette](https://www.linkedin.com/in/yvettekondoh/). You are not only 
 
 
 
-![thank you.png](images/thankyou.png)
+![alt text](images/thankyou.png)
 
 
 
