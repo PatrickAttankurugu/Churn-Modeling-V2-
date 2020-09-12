@@ -1,7 +1,7 @@
 # PROJECT NAME
 
 ## CHURN MODELING 2.0: Predictive Modeling With Python And Sci-Kit Learn
-![alt text](images/model.png)
+![background image](images/churn.png)
 
 
 # PROJECT STATUS: Active
@@ -33,7 +33,6 @@ The purpose of this project is to predict the likelihood that a particular custo
 
 The data originally belongs to a bank that operates in 3 countries: France, Spain and Germany. But since most of my audience are likely to come from Ghana, I decided to replace the geography variables with Accra, Kumasi and Bolga respectiveloy for easy comprehension. So in the dataset you will see these three Ghanaian regions instead of the countries.
 Now the bank has been experiencing a rapid rate of customer churn lately. That means custmers have been leaving the bank at an unusual rate and managemnent want to find out what is wrong, and what they can do to keep their customers. I completed the prototype of this project with a software tool called Gretl. But here, I will be using Python and related libraries.
-![model.png](attachment:images/model.png)
 This project is an application of the logistic regression algorithm. We are trying to compute the binary outcome of whether or not a particular customer will leave the bank. I used a machine learning library called Sci-kit Learn. But Sci-kit Learn is built on top of matplotlib which in turn is built on top of Numpy. So you need some experience with Numpy, matplotlib and sci-kit learn. You will also need some introductory knowledge in pandas to get started with this project.
 
 
@@ -60,7 +59,7 @@ The code is supposed to predict the likelihood that a particular customer or gro
 
 1. Clone this repo. Enter the command: '$ git clone https://github.com/PatrickAttankurugu/Churn-Modeling-V2-' . Now enter this command: ' $ cd Churn-Modeling-V2-' . To point your command line to the working directory
 
-![getting started]([logo]:https://github.com/PatrickAttankurugu/Churn-Modeling-V2-/blob/master/images/gstarted.JPG "gstarted.jpg")
+![getting started](gettingstarted.png)
 
 2. Prepared Data is being kept [here](Prepared_Data) within this repo.
 3. Data processing/transformation scripts are being kept [here](Transformations) 
@@ -97,7 +96,7 @@ Thanks to [Yvette](https://www.linkedin.com/in/yvettekondoh/). You are not only 
 
 
 
-![thankyou.png](attachment:images/thankyou.png)
+![thank you.png](images/thankyou.png)
 
 
 
