@@ -97,7 +97,7 @@ Thanks to [Yvette](https://www.linkedin.com/in/yvettekondoh/). You are not only 
 
 
 
-![alt text](images/thankyou.png)
+![alt text](images/thankyou.PNG)
 
 
 
