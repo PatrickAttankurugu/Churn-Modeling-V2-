@@ -5,19 +5,20 @@
 ![alt text](images/churn.PNG)
 
 
-# PROJECT STATUS: Work in progress
-
-## Project needs
-
-* frontend developers
-* data exploration/descriptive statistics
-* statistical modeling 
-* writeup/reporting
 
 
 ## Project Intro/Objectives
 
 The purpose of this project is to predict the likelihood that a particular customer will leave the bank. We are also to find out what exactly the bank should do to keep customers and prevent them from leaving. These are the main objectives, however the bank welcomes any other insights found during analysis.
+
+
+## Project Description
+
+The data originally belongs to a bank that operates in 3 countries: France, Spain and Germany. But since most of my audience are likely to come from Ghana, I decided to replace the geography variables with Accra, Kumasi and Bolga respectiveloy for easy comprehension. So in the dataset you will see these three Ghanaian regions instead of the countries.
+Now the bank has been experiencing a rapid rate of customer churn lately. That means custmers have been leaving the bank at an unusual rate and managemnent want to find out what is wrong, and what they can do to keep their customers. I completed the prototype of this project with a software tool called Gretl. But here, I will be using Python and related libraries.
+This project is an application of the logistic regression algorithm. We are trying to compute the binary outcome of whether or not a particular customer will leave the bank.
+![alt text](images/focus.PNG)
+I used a machine learning library called Sci-kit Learn. But Sci-kit Learn is built on top of matplotlib which in turn is built on top of Numpy. So you need some experience with Numpy, matplotlib and sci-kit learn. You will also need some introductory knowledge in pandas to get started with this project.
 
 
 ## Methods I am using
@@ -38,16 +39,6 @@ The purpose of this project is to predict the likelihood that a particular custo
 * MySQL
 * HTML
 
-## Project Description
-
-The data originally belongs to a bank that operates in 3 countries: France, Spain and Germany. But since most of my audience are likely to come from Ghana, I decided to replace the geography variables with Accra, Kumasi and Bolga respectiveloy for easy comprehension. So in the dataset you will see these three Ghanaian regions instead of the countries.
-Now the bank has been experiencing a rapid rate of customer churn lately. That means custmers have been leaving the bank at an unusual rate and managemnent want to find out what is wrong, and what they can do to keep their customers. I completed the prototype of this project with a software tool called Gretl. But here, I will be using Python and related libraries.
-This project is an application of the logistic regression algorithm. We are trying to compute the binary outcome of whether or not a particular customer will leave the bank.
-![alt text](images/focus.PNG)
-I used a machine learning library called Sci-kit Learn. But Sci-kit Learn is built on top of matplotlib which in turn is built on top of Numpy. So you need some experience with Numpy, matplotlib and sci-kit learn. You will also need some introductory knowledge in pandas to get started with this project.
-
-
-
 
 
 ### Vision
@@ -60,6 +51,16 @@ Data Source: https://www.superdatascience.com/training/pages . (section 5)
 * Number of rows in train data: 10,000
 * Number of rows in test data: 1,000
 * Number of columns: 13
+
+## PROJECT STATUS: Work in progress
+
+## Project needs
+
+* frontend developers
+* data exploration/descriptive statistics
+* statistical modeling 
+* writeup/reporting
+
 
 
 
