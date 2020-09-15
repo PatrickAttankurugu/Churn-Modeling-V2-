@@ -5,7 +5,15 @@
 ![alt text](images/churn.PNG)
 
 
-# PROJECT STATUS: Active
+# PROJECT STATUS: Work in progress
+
+## Project needs
+
+* frontend developers
+* data exploration/descriptive statistics
+* statistical modeling 
+* writeup/reporting
+
 
 ## Project Intro/Objectives
 
@@ -42,16 +50,16 @@ I used a machine learning library called Sci-kit Learn. But Sci-kit Learn is bui
 
 
 
-###Vision
+### Vision
 This is version 2 of the churn modeling project. The vision is to predict the likelihood that a customer will leave the bank and determine what to do to keep them and reduce churn rate drastically.
 
 ### About The Data
 
 Data Source: https://www.superdatascience.com/training/pages . (section 5)
 
-Number of rows in train data: 10,000
-Number of rows in test data: 1,000
-Number of columns: 13
+* Number of rows in train data: 10,000
+* Number of rows in test data: 1,000
+* Number of columns: 13
 
 
 
@@ -68,34 +76,11 @@ The code is supposed to predict the likelihood that a particular customer or gro
 3. Data processing/transformation scripts are being kept [here](Transformations) 
 4. All scripts used in the analysis is kept [here](Analysis).
 5. My findings and insights are being kept [here](Insights) within this repo.
-6. Scripts related to the flask server is being kept [here](Flask).
+6. Scripts related to the flask server is being kept [here](Flask). 
 
-
-
-
-## Needs Of This Project
-
-frontend developers
-data exploration/descriptive statistics
-statistical modeling 
-writeup/reporting 
-
-# LET'S CONNECT
-
-I am a big fan of the phylosophy that nothing just happens. If you are reading this. Chances are that we are meant to connect. probably, you can be classified under one of three categories if you are a Data Scientist. Beginner, intermediate or advanced. If you are a beginner, go ahead and clone this repository and try to understand and reproduce the codes that are used to perform various functions within the project. Remember to chat me up [HERE](https://www.linkedin.com/in/patrick-attankurugu-b17a60151/) when you need help . I will be more than ready to help you understand the logistic regression algorithm used in this project. Should you want to join me in the project, You are welcome. Fork it and let's get analyzing.
 
 ## ACKNOWLEDGEMENT
-Thanks to [Yvette](https://www.linkedin.com/in/yvettekondoh/). You are not only a mentor but also a shepherd
-
-## Author
- **Patrick Attankurugu** 
-
-## CONTACT 
-
-**Connect with me on**
-[LinkedIn](https://www.linkedin.com/in/patrick-attankurugu-b17a60151/)
-**Or send me an email**:patricka.azuma@gmail.com
-
+Thanks to [Yvette Kondoh](https://www.linkedin.com/in/yvettekondoh/) for being my mentor
 
 
 
